@@ -1,0 +1,157 @@
+
+.logo {
+  width: 120px;
+  height: 40px;
+}
+#navItem1 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+#navItem2 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+#navItem3 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+#navItem4 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+.banner-section-bg-container {
+  background-image: url("https://res.cloudinary.com/dlzuc9stg/image/upload/v1758952814/ChatGPT_Image_Sep_27_2025_11_25_35_AM_ueyka1.png");
+  height: 100vh;
+  background-size: cover;
+}
+.banner-heading {
+  color: white;
+  font-family: "fantasy";
+  font-size: 45px;
+  font-weight: 300;
+}
+.banner-caption {
+  color: white;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: 300;
+}
+.custom-button {
+  color: white;
+  background-color: transparent;
+  width: 130px;
+  height: 45px;
+  font-family: "fantasy";
+  border-width: 1px;
+  border-color: #f6ce84;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+.custom-outline-button {
+  color: white;
+  background-color: transparent;
+  width: 130px;
+  height: 45px;
+  font-family: "fantasy";
+  border-style: solid;
+  border-width: 1px;
+  border-color: #f6ce84;
+  border-radius: 8px;
+}
+.explore-menu-section {
+  background-color: white;
+}
+.menu-section-heading {
+  color: #183b56;
+  font-family: "fantasy";
+  font-size: 28px;
+  font-weight: 700;
+}
+.menu-item-image {
+  border-radius: 16px;
+  
+}
+.menu-card-title {
+  color: #323f4b;
+  font-family: "fantasy";
+  font-size: 22px;
+  font-weight: 500;
+  margin-top: 24px;
+}
+.menu-item-link {
+  color: #d0b200;
+  font-family: "fantasy";
+  font-size: 14px;
+  font-weight: 500;
+}
+.menu-item-card {
+  border-radius: 16px;
+}
+.confidence-section {
+  background-color: white;
+}
+.confidence-section-img {
+  width: 420px;
+}
+.confidence-section-heading {
+  color: #183b56;
+  font-family: "fantasy";
+  font-size: 28px;
+  font-weight: 700;
+}
+.confidence-section-description {
+  color: #5a7184;
+  font-family: "fantasy";
+  font-size: 16px;
+}
+.delivery-and-payment-section {
+  background-color: white;
+}
+.delivery-and-payment-section-img {
+  width: 390px;
+}
+.delivery-and-payment-section-heading {
+  color: #183b56;
+  font-family: "Fantasy";
+  font-size: 28px;
+  font-weight: 700;
+}
+.delivery-and-payment-section-description {
+  color: #5a7184;
+  font-family: "Fantasy";
+  font-size: 16px;
+}
+.contact-section {
+  background-image: radial-gradient(#ffffff);
+}
+.contact-section-heading {
+  color: #183b56;
+  font-family: "fantasy";
+  font-size: 28px;
+  font-weight: 700;
+}
+.contact-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.end-section {
+  background-color: #ffffff;
+}
+.end-section-mail-id {
+  color: #474444;
+  font-family: "Fantasy";
+  font-size: 14px;
+  margin-top: 10px;
+}
+.order-button {
+  color: rgb(53, 51, 51);
+  background-color: transparent;
+  width: 130px;
+  height: 45px;
+  font-family: "fantasy";
+  border-width: 1px;
+  border-color: #212120;
+  border-radius: 8px;
+  margin-right: 10px;
+}
