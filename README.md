@@ -1,5 +1,5 @@
-# MenW
-Men's Wear Online Store Responsive Webpage
+# MenW --- Online Store
+🕴️Men's Wear Online Store Responsive Webpage
 
 An elegant and modern Men’s Wear Online Webpage showcasing a collection of formal, casual, party, and traditional wear. Designed to give users a smooth browsing experience with a clean and stylish layout.
 
